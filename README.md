@@ -20,31 +20,13 @@
 
 ## 👨‍💻 About me
 
-I'm a software engineer with a background in Computer Engineering (PICT, Pune).
+I'm a software engineer with a bachelor in Computer Engineering (PICT, Pune).
 
-I'm working in a drone manufacturing company, mostly writing **C++** and **Python**. My day job has taught me a lot about debugging real-time systems. I love understanding how pieces of a system are built, how they communicate, and why they sometimes don't.
+I'm working in a drone manufacturing company, mostly writing **C++** and **Python**. My day job has taught me a lot about debugging real-time systems. I love understanding how pieces of a system / software are built, how they communicate, and why they sometimes don't.
 
 - 🔭 Currently exploring: **distributed systems** and **networking fundamentals**
-- 🛠️ Day to day: C++ / Python, Linux, logging & debugging pipelines, monitoring
-- 🌱 Learning: building small things to understand big systems better
-- 💬 Happy to chat about backend, systems, or anything that moves bytes from A to B
-
----
-
-## 🧭 Interests
-
-<table>
-  <tr>
-    <td>🔗 <b>Connected & Distributed Systems</b></td>
-    <td>🧩 <b>Backend Engineering</b></td>
-  </tr>
-  <tr>
-    <td>⚙️ <b>Systems Programming</b></td>
-    <td>🌐 <b>Computer Networks</b></td>
-  </tr>
-</table>
-
-> I don't have an active project in connected systems yet. It's the area I'm drawn to, and I'm working towards building something in it.
+- 🛠️ Day to day: C++ / Python, Linux, logging & debugging messages, monitoring
+- 🌱 Learning approach: building small things to understand big systems better
 
 ---
 
@@ -66,7 +48,7 @@ I'm working in a drone manufacturing company, mostly writing **C++** and **Pytho
 
 ## 🚀 Projects
 
-### 🏍️ [Ride-Ezy](https://github.com/Borgaonkarchinmay)
+### 🏍️ [Ride-Ezy](https://github.com/Borgaonkarchinmay/WTL_Project)
 A bike-pooling platform for university students, with ride listings and map-based trip visualization (including distance insight).
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -75,14 +57,14 @@ A bike-pooling platform for university students, with ride listings and map-base
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
 
-### 🚗 Car Test-Drive Management System
+### 🚗 [Car Test-Drive Management System](https://github.com/Borgaonkarchinmay/Testdrive-Management-System)
 A web application that manages test-drive enquiries and scheduling between customers and dealership managers, including the full enquiry lifecycle.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 📡 Contextual Information Flow in Tourism using BLE *(IEEE Conference Paper)*
+### 📡 [Contextual Information Flow in Tourism using BLE](https://ieeexplore.ieee.org/document/10100063) *(IEEE Conference Paper)*
 A BLE beacon system (ESP32 + smartphone app) that delivers tourist information based on proximity. We collected and analysed RSSI data under different crowd densities to check how reliable proximity detection is.
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
@@ -98,15 +80,26 @@ A BLE beacon system (ESP32 + smartphone app) that delivers tourist information b
   <img src="https://leetcard.jacoblin.cool/CB_10?theme=dark&font=Karla&border=0&radius=10" alt="LeetCode stats" />
 </a>
 
-<sub>LeetCode has been quiet for a while. I'm planning to get back to it.</sub>
+<sub>LeetCode has been quiet for a while. Getting back to it.</sub>
 
 </div>
 
-<div align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Borgaonkarchinmay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="160" />
+## 🧭 Interests
 
-</div>
+<table>
+  <tr>
+    <td>🔗 <b>Connected & Distributed Systems</b></td>
+    <td>🧩 <b>Backend Engineering</b></td>
+  </tr>
+  <tr>
+    <td>⚙️ <b>Systems Programming</b></td>
+    <td>🌐 <b>Computer Networks</b></td>
+  </tr>
+</table>
+
+I don't have an active project in connected systems yet. It's the area I'm drawn to, and I'm working towards building something in it.
 
 ---
 
