@@ -1,11 +1,11 @@
-<!-- Header banner (animated wave) -->
+<!-- Header banner (dark navy) -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hi,%20I'm%20Chinmay%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=140&section=header&text=Hi,%20I'm%20Chinmay%20👋&fontSize=36&fontColor=e6f1ff&fontAlignY=50" alt="header" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Computer+Engineer;Curious+about+how+systems+talk+to+each+other;Finding+order+in+technical+chaos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Computer+Engineer+in+Robotics;Curious+about+how+systems+talk+to+each+other;Finding+order+in+technical+chaos" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,28 +20,28 @@
 
 ## 👨‍💻 About me
 
-I'm a software engineer with a bachelor in Computer Engineering (PICT, Pune).
+I'm a computer engineer (B.E. Computer Engineering, PICT Pune) working in the robotics field at a drone manufacturing company, mostly writing **C++** and **Python**.
 
-I'm working in a drone manufacturing company, mostly writing **C++** and **Python**. My day job has taught me a lot about debugging real-time systems. I love understanding how pieces of a software / system are built, how they communicate, and why they sometimes don't.
+Recently I migrated a navigation package from ROS1 to ROS2 and built a logging pipeline to make debugging easier. Day to day, I enjoy understanding how the pieces of a system are built, how they communicate, and why they sometimes don't.
 
 - 🔭 Currently exploring: **distributed systems** and **networking fundamentals**
-- 🛠️ Day to day: C++ / Python, Linux, logging & debugging messages, monitoring
+- 🛠️ Day to day: C++ / Python, ROS, Linux, logging & debugging, monitoring
 - 🌱 Learning approach: building small things to understand big systems better
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages**
+**Day to day**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,go&perline=8" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,ros,linux,git&perline=8" alt="Day to day" />
 </p>
 
-**Technologies & Tools**
+**Used in projects and internships**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,electron,mongodb,mysql,linux,git,docker,nginx,postman,prometheus,grafana,ros&perline=7" alt="Technologies and tools" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,mysql,docker,prometheus,grafana&perline=8" alt="Used in projects and internships" />
 </p>
 
 ---
@@ -74,32 +74,7 @@ A BLE beacon system (ESP32 + smartphone app) that delivers tourist information b
 
 ## 📊 Coding Profiles
 
-<div align="center">
-
-<a href="https://leetcode.com/u/CB_10/">
-  <img src="https://leetcard.jacoblin.cool/CB_10?theme=dark&font=Karla&border=0&radius=10" alt="LeetCode stats" />
-</a>
-
-<sub>LeetCode has been quiet for a while. Getting back to it.</sub>
-
-</div>
-
----
-
-## 🧭 Interests
-
-<table>
-  <tr>
-    <td>🔗 <b>Connected & Distributed Systems</b></td>
-    <td>🧩 <b>Backend Engineering</b></td>
-  </tr>
-  <tr>
-    <td>⚙️ <b>Systems Programming</b></td>
-    <td>🌐 <b>Computer Networks</b></td>
-  </tr>
-</table>
-
-I don't have an active project in connected systems yet. It's the area I'm drawn to, and I'm working towards building something in it.
+- [LeetCode (CB_10)](https://leetcode.com/u/CB_10/): quiet for a while, getting back to it.
 
 ---
 
@@ -113,6 +88,6 @@ I don't have an active project in connected systems yet. It's the area I'm drawn
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=60&section=footer" alt="footer" />
 
 </div>
