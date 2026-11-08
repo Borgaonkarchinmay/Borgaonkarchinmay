@@ -94,8 +94,8 @@ A BLE beacon system (ESP32 + smartphone app) that delivers tourist information b
 
 <div align="center">
 
-<a href="https://leetcode.com/u/cb_720276/">
-  <img src="https://leetcard.jacoblin.cool/cb_720276?theme=dark&font=Karla&border=0&radius=10" alt="LeetCode stats" />
+<a href="https://leetcode.com/u/CB_10/">
+  <img src="https://leetcard.jacoblin.cool/CB_10?theme=dark&font=Karla&border=0&radius=10" alt="LeetCode stats" />
 </a>
 
 <sub>LeetCode has been quiet for a while. I'm planning to get back to it.</sub>
