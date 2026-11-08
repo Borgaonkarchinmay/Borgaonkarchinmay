@@ -12,7 +12,7 @@
 
 <a href="mailto:cpborgaonkar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/borgaonkarchinmay/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/cb_720276/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://leetcode.com/u/CB_10/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 
 </div>
 
@@ -22,7 +22,7 @@
 
 I'm a software engineer with a background in Computer Engineering (PICT, Pune).
 
-I currently work at a drone startup, mostly writing **C++** and **Python**. My day job has taught me a lot about debugging real-time systems, but at heart I'm a software person: I like understanding how pieces of a system are built, how they communicate, and why they sometimes don't.
+I'm working in a drone manufacturing company, mostly writing **C++** and **Python**. My day job has taught me a lot about debugging real-time systems. I love understanding how pieces of a system are built, how they communicate, and why they sometimes don't.
 
 - 🔭 Currently exploring: **distributed systems** and **networking fundamentals**
 - 🛠️ Day to day: C++ / Python, Linux, logging & debugging pipelines, monitoring
@@ -44,7 +44,7 @@ I currently work at a drone startup, mostly writing **C++** and **Python**. My d
   </tr>
 </table>
 
-> I don't have an active project in connected systems yet. It's the area I'm most drawn to, and I'm slowly working towards building something in it.
+> I don't have an active project in connected systems yet. It's the area I'm drawn to, and I'm working towards building something in it.
 
 ---
 
