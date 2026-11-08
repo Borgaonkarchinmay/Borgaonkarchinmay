@@ -53,7 +53,7 @@ I'm working in a drone manufacturing company, mostly writing **C++** and **Pytho
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,py,go,js&perline=8" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,go&perline=8" alt="Languages" />
 </p>
 
 **Technologies & Tools**
