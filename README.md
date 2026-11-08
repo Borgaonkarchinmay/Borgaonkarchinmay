@@ -1,11 +1,11 @@
 <!-- Header banner (dark navy) -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=140&section=header&text=Hi,%20I'm%20Chinmay%20👋&fontSize=36&fontColor=e6f1ff&fontAlignY=50" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=140&section=header&text=Hi,%20I'm%20Chinmay Borgaonkar%20👋&fontSize=36&fontColor=e6f1ff&fontAlignY=50" alt="header" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Computer+Engineer+in+Robotics;Curious+about+how+systems+talk+to+each+other;Finding+order+in+technical+chaos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Computer+Engineer;Curious+about+how+systems+talk+to+each+other;Finding+order+in+technical+chaos" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,9 +20,9 @@
 
 ## 👨‍💻 About me
 
-I'm a computer engineer (B.E. Computer Engineering, PICT Pune) working in the robotics field at a drone manufacturing company, mostly writing **C++** and **Python**.
+Software Engineer @ Ayaan Autonomous Systems | PICT Alumni
 
-Recently I migrated a navigation package from ROS1 to ROS2 and built a logging pipeline to make debugging easier. Day to day, I enjoy understanding how the pieces of a system are built, how they communicate, and why they sometimes don't.
+I'm mostly writing **C++** and **Python**. Recently I migrated an autonomous navigation package from ROS1 to ROS2. Day to day, I enjoy understanding how the pieces of a software /   system are built, how they communicate, and why they sometimes don't.
 
 - 🔭 Currently exploring: **distributed systems** and **networking fundamentals**
 - 🛠️ Day to day: C++ / Python, ROS, Linux, logging & debugging, monitoring
@@ -30,23 +30,23 @@ Recently I migrated a navigation package from ROS1 to ROS2 and built a logging p
 
 ---
 
-## 🧰 Tech Stack
+## 🧰  Languages and Technologies
 
 **Day to day**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,py,ros,linux,git&perline=8" alt="Day to day" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,ros,linux,git,docker&perline=8" alt="Day to day" />
 </p>
 
 **Used in projects and internships**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,mysql,docker,prometheus,grafana&perline=8" alt="Used in projects and internships" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,electron,mongodb,mysql,docker,prometheus,grafana&perline=8" alt="Used in projects and internships" />
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects & Research
 
 ### 🏍️ [Ride-Ezy](https://github.com/Borgaonkarchinmay/WTL_Project)
 A bike-pooling platform for university students, with ride listings and map-based trip visualization (including distance insight).
@@ -72,9 +72,9 @@ A BLE beacon system (ESP32 + smartphone app) that delivers tourist information b
 
 ---
 
-## 📊 Coding Profiles
+## 📊 Coding Profile
 
-- [LeetCode (CB_10)](https://leetcode.com/u/CB_10/): quiet for a while, getting back to it.
+- [LeetCode (CB_10)](https://leetcode.com/u/CB_10/)
 
 ---
 
