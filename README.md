@@ -1,7 +1,7 @@
 <!-- Header banner (dark navy) -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=140&section=header&text=Hi,%20I'm%20Chinmay Borgaonkar%20👋&fontSize=36&fontColor=e6f1ff&fontAlignY=50" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=140&section=header&text=Hi,%20I'm%20Chinmay%20Borgaonkar%20👋&fontSize=36&fontColor=e6f1ff&fontAlignY=50" alt="header" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
