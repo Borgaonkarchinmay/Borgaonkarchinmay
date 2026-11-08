@@ -22,7 +22,7 @@
 
 I'm a software engineer with a bachelor in Computer Engineering (PICT, Pune).
 
-I'm working in a drone manufacturing company, mostly writing **C++** and **Python**. My day job has taught me a lot about debugging real-time systems. I love understanding how pieces of a system / software are built, how they communicate, and why they sometimes don't.
+I'm working in a drone manufacturing company, mostly writing **C++** and **Python**. My day job has taught me a lot about debugging real-time systems. I love understanding how pieces of a software / system are built, how they communicate, and why they sometimes don't.
 
 - 🔭 Currently exploring: **distributed systems** and **networking fundamentals**
 - 🛠️ Day to day: C++ / Python, Linux, logging & debugging messages, monitoring
